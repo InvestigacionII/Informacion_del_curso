@@ -14,7 +14,7 @@ Dinámica:
 y los objetivos para los siguientes 15 dias. Firmado por su asesor
 
 
-* Enregar, al final del curso, un documento al estilo artículo científico en donde se detalle su trabajo.
+* Entregar, al final del curso, un documento al estilo artículo científico en donde se detalle su trabajo.
 El formato y la rúbrica se encontraran en github
 
 Evaluación:
