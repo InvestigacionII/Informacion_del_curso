@@ -1,8 +1,9 @@
 Trabajo de medio semestre
 
-Entregar via Github: primero registrarse en el classroom, ver Readme principal, y aceptar la tarea cuya liga esta a continuación:
-
-https://classroom.github.com/a/ipK4VW3S
+Entregar via Github en formato .pdf
+  - Registrarse en el Git Classroom (ver Readme principal)
+  - Aceptar la tarea cuya liga esta a continuación:
+  https://classroom.github.com/a/ipK4VW3S
 
 Fecha de entrega: 14 de marzo 2018
 
@@ -14,10 +15,8 @@ Elaborar un documento con formato de árticulo (utilizar LateX) que tenga los si
   - Objetivo
   - Alcance
   - Aportación
-* Trabajo Relacionado: En este apartado describen la revisión bibiliográfica hecha hasta el momento y como se relaciona con el trabajo propuesto
-
+* Trabajo Relacionado: En este apartado detalla la revisión bibiliográfica hecha hasta el momento y se describe su relación con el trabajo propuesto
 * Desarrollo:
-
     - Metodología (qué se tiene que hacer para realizar la tesis)
     - Trabajo realizado hasta el momento (de lo anterior que se ha hecho)
     - Trabajo faltante (de lo anterior que falta por hacer)
