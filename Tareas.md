@@ -1,13 +1,14 @@
-Trabajo de medio semestre
+# Trabajo de medio semestre
 
-Entregar via Github en formato .pdf
+## Fecha de entrega: 14 de marzo 2018
+## Entregar via Github en formato .pdf
   - Registrarse en el Git Classroom (ver Readme principal)
   - Aceptar la tarea cuya liga esta a continuación:
   https://classroom.github.com/a/ipK4VW3S
 
-Fecha de entrega: 14 de marzo 2018
 
-Descripción:
+
+## Descripción:
 Elaborar un documento con formato de árticulo (utilizar LateX) que tenga los siguientes apartados:
 
 * Introducción: En este apartado se describe el problema a atacar en la Tesis
