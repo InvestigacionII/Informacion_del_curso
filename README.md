@@ -26,7 +26,7 @@ Evaluación:
 * Carta del asesor 20%
 
 
-* Reporte 60%
+* Reportes 60%
 
 Clave para incorporarse al Git Classroom y subir tareas etc.
 https://classroom.github.com/classrooms/35783053-investigacion-ii
