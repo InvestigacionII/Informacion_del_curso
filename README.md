@@ -14,16 +14,16 @@ Dinámica de clase:
 y los objetivos para los siguientes 15 dias. Firmado por su asesor
 
 
-* Entregar, al final del curso, un documento al estilo artículo científico en donde se detalle su trabajo.
+* Entregar, al principio y al final del curso, un documento al estilo artículo científico en donde se detalle su trabajo.
 El formato y la rúbrica se encontraran en github
 
 Evaluación:
 
 
-* Asistencia, presentaciones y participación 20%
+* Asistencia, presentaciones y participación 30%
 
 
 * Carta del asesor 20%
 
 
-* Reportes 60%
+* Reportes 40%
