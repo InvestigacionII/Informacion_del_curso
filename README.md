@@ -5,7 +5,7 @@ Objetivo: Avance en el trabajo de investigación de al menos 80%
 
 
 
-Dinámica:
+Dinámica de clase:
 
 * Presentación de resumen, avances y objetivos cada 15 días
 
@@ -27,6 +27,3 @@ Evaluación:
 
 
 * Reportes 60%
-
-Clave para incorporarse al Git Classroom y subir tareas etc.
-https://classroom.github.com/classrooms/35783053-investigacion-ii
