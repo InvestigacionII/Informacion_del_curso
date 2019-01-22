@@ -20,7 +20,7 @@ El formato y la rúbrica se encontraran en github
 Evaluación:
 
 
-* Asistencia, presentaciones y participación 30%
+* Asistencia, presentaciones y participación 30% (10%,15%,5%)
 
 
 * Carta del asesor 20%
