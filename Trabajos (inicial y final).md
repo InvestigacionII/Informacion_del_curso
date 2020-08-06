@@ -2,11 +2,8 @@
 
 # Trabajo de inicio de  semestre
 
-## Fecha de entrega: 30 de enero 2019
-## Entregar via Github en formato .pdf
-  - Registrarse en el Git Classroom (ver Readme principal)
-  - Aceptar la tarea cuya liga esta a continuación:
-  https://classroom.github.com/a/CN_rdWjN
+## Fecha de entrega: 20 de agosto
+## Entregar via Canvas en formato .pdf
 
 
 
