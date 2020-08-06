@@ -1,4 +1,4 @@
-# Presentación Final
+# Presentación Bimensual
 
 Hacer una presentación en powerpoint o similar cada dos semanas en clase con las siguientes características:
 
